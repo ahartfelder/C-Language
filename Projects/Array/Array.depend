@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632855708 source:c:\users\ahart\documents\github\c-language\projects\array\insert.c
+
+1632922818 source:c:\users\ahart\documents\github\c-language\projects\array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1632865092 source:c:\users\ahart\documents\github\c-language\projects\array\functions.c
+
